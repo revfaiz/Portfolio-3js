@@ -30,7 +30,7 @@ const Footer = () => {
         {/* anchor for the linkedin icon */}  
          <a
           className="social-icon hover:scale-110 transition-transform duration-300"
-          href="https://linkedin.com/"
+          href="https://pk.linkedin.com/in/ahmed-faizan"
           target="_blank"
           rel="noopener noreferrer"
         >
