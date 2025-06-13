@@ -14,7 +14,7 @@
   <h3 align="center">A 3D Dev Portfolio</h3>
 
    <div align="center">
-     Build this project to showcase skills I hve
+     Build this project to showcase skills I have
     </div>
 </div>
 
